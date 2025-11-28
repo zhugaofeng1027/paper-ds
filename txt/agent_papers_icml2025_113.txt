@@ -1,0 +1,113 @@
+Adaptive Sample Sharing for Multi Agent Linear Bandits
+Adaptive Self-improvement LLM Agentic System for ML Library Development
+AdvAgent: Controllable Blackbox Red-teaming on Web Agents
+Agent Reviewers: Domain-specific Multimodal Agents with Shared Memory for Paper Review
+Agent Workflow Memory
+Agent-Centric Actor-Critic for Asynchronous Multi-Agent Reinforcement Learning
+Agent-as-a-Judge: Evaluate Agents with Agents
+Aguvis: Unified Pure Vision Agents for Autonomous GUI Interaction
+AutoML-Agent: A Multi-Agent LLM Framework for Full-Pipeline AutoML
+Automated Hypothesis Validation with Agentic Sequential Falsifications
+Automated Red Teaming with GOAT: the Generative Offensive Agent Tester
+BRIDGE: Bootstrapping Text to Control Time-Series Generation via Multi-Agent Iterative Optimization and Diffusion Modeling
+Better to Teach than to Give: Domain Generalized Semantic Segmentation via Agent Queries with Diffusion Model Guidance
+Boosting Virtual Agent Learning and Reasoning: A Step-Wise, Multi-Dimensional, and Generalist Reward Model with Benchmark
+Breaking the Curse of Multiagency in Robust Multi-Agent Reinforcement Learning
+CVE-Bench: A Benchmark for AI Agents’ Ability to Exploit Real-World Web Application Vulnerabilities
+Can Compressed LLMs Truly Act? An Empirical Evaluation of Agentic Capabilities in LLM Compression
+Code-Generated Graph Representations Using Multiple LLM Agents for Material Properties Prediction
+Collaborative Mean Estimation Among Heterogeneous Strategic Agents: Individual Rationality, Fairness, and Truthful Contribution
+Communicating Activations Between Language Model Agents
+Convex Markov Games: A New Frontier for Multi-Agent Reinforcement Learning
+Counterfactual Effect Decomposition in Multi-Agent Sequential Decision Making
+Cowpox: Towards the Immunity of VLM-based Multi-Agent Systems
+Cradle: Empowering Foundation Agents towards General Computer Control
+Craftium: Bridging Flexibility and Efficiency for Rich 3D Single- and Multi-Agent Environments
+Cross-environment Cooperation Enables Zero-shot Multi-agent Coordination
+Decision Theoretic Foundations for Conformal Prediction: Optimal Uncertainty Quantification for Risk-Averse Agents
+Distributionally Robust Multi-Agent Reinforcement Learning for Dynamic Chute Mapping
+Divide and Conquer: Grounding LLMs as Efficient Decision-Making Agents via Offline Hierarchical Reinforcement Learning
+Eliciting Language Model Behaviors with Investigator Agents
+EmbodiedBench: Comprehensive Benchmarking Multi-modal Large Language Models for Vision-Driven Embodied Agents
+EnIGMA: Interactive Tools Substantially Assist LM Agents in Finding Security Vulnerabilities
+Enhancing Cooperative Multi-Agent Reinforcement Learning with State Modelling and Adversarial Exploration
+Enhancing Diversity In Parallel Agents: A Maximum State Entropy Exploration Story
+Explicit Exploration for High-Welfare Equilibria in Game-Theoretic Multiagent Reinforcement Learning
+Finite-Time Convergence Rates in Stochastic Stackelberg Games with Smooth Algorithmic Agents
+Finite-Time Global Optimality Convergence in Deep Neural Actor-Critic Methods for Decentralized Multi-Agent Reinforcement Learning
+Fleet of Agents: Coordinated Problem Solving with Large Language Models
+From Debate to Equilibrium: Belief‑Driven Multi‑Agent LLM Reasoning via Bayesian Nash Equilibrium
+G-Designer: Architecting Multi-agent Communication Topologies via Graph Neural Networks
+General agents need world models
+GradPS: Resolving Futile Neurons in Parameter Sharing Network for Multi-Agent Reinforcement Learning
+Graph Diffusion for Robust Multi-Agent Coordination
+Gravity-Bench-v1: A Benchmark on Gravitational Physics Discovery for Agents
+GuardAgent: Safeguard LLM Agents via Knowledge-Enabled Reasoning
+Guided Search Strategies in Non-Serializable Environments with Applications to Software Engineering Agents
+HYGMA: Hypergraph Coordination Networks with Dynamic Grouping for Multi-Agent Reinforcement Learning
+Hybrid Quantum-Classical Multi-Agent Pathfinding
+ITBench: Evaluating AI Agents across Diverse Real-World IT Automation Tasks
+Improving Parallel Program Performance with LLM Optimizers via Agent-System Interfaces
+Incentivize without Bonus: Provably Efficient Model-based Online Multi-agent RL for Markov Games
+KABB: Knowledge-Aware Bayesian Bandits for Dynamic Expert Coordination in Multi-Agent Systems
+KBQA-o1: Agentic Knowledge Base Question Answering with Monte Carlo Tree Search
+LLM-Assisted Semantically Diverse Teammate Generation for Efficient Multi-agent Coordination
+Learning Progress Driven Multi-Agent Curriculum
+Learning Strategic Language Agents in the Werewolf Game with Iterative Latent Space Policy Optimization
+Learning to Incentivize in Repeated Principal-Agent Problems with Adversarial Agent Arrivals
+MAGELLAN: Metacognitive predictions of learning progress guide autotelic LLM agents in large goal spaces
+MAS-GPT: Training LLMs to Build LLM-based Multi-Agent Systems
+MCU: An Evaluation Framework for Open-Ended Game Agents
+MELON: Provable Defense Against Indirect Prompt Injection Attacks in AI Agents
+MedRAX: Medical Reasoning Agent for Chest X-ray
+MetaAgent: Automatically Constructing Multi-Agent Systems Based on Finite State Machines
+MoRAgent: Parameter Efficient Agent Tuning with Mixture-of-Roles
+Multi-agent Architecture Search via Agentic Supernet
+M³HF: Multi-agent Reinforcement Learning from Multi-phase Human Feedback of Mixed Quality
+Nemotron-CORTEXA: Enhancing LLM Agents for Software Engineering Tasks via Improved Localization and Solution Diversity
+O-MAPL: Offline Multi-agent Preference Learning
+Of Mice and Machines: A Comparison of Learning Between Real World Mice and RL Agents
+On the Resilience of LLM-Based Multi-Agent Collaboration with Faulty Agents
+OrcaLoca: An LLM Agent Framework for Software Issue Localization
+PINNsAgent: Automated PDE Surrogation with Large Language Models
+PatchPilot: A Cost-Efficient Software Engineering Agent with Early Attempts on Formal Verification
+Plan-and-Act: Improving Planning of Agents for Long-Horizon Tasks
+PokéChamp: an Expert-level Minimax Language Agent
+Position: AI Agents Need Authenticated Delegation
+Position: Build Agent Advocates, Not Platform Agents
+Position: Scaling LLM Agents Requires Asymptotic Analysis with LLM Primitives
+Position: Truly Self-Improving Agents Require Intrinsic Metacognitive Learning
+Position: Trustworthy AI Agents Require the Integration of Large Language Models and Formal Methods
+Position: Uncertainty Quantification Needs Reassessment for Large Language Model Agents
+Prediction-Aware Learning in Multi-Agent Systems
+Principal-Agent Bandit Games with Self-Interested and Exploratory Learning Agents
+Proactive Agents for Multi-Turn Text-to-Image Generation Under Uncertainty
+Proposer-Agent-Evaluator (PAE): Autonomous Skill Discovery For Foundation Model Internet Agents
+Proto Successor Measure: Representing the Behavior Space of an RL Agent
+Provably Efficient Algorithm for Best Scoring Rule Identification in Online Principal-Agent Information Acquisition
+QLASS: Boosting Language Agent Inference via Q-Guided Stepwise Search
+R3DM: Enabling Role Discovery and Diversity Through Dynamics Models in Multi-agent Reinforcement Learning
+RE-Bench: Evaluating Frontier AI R&D Capabilities of Language Model Agents against Human Experts
+Reidentify: Context-Aware Identity Generation for Contextual Multi-Agent Reinforcement Learning
+Reinforce LLM Reasoning through Multi-Agent Reflection
+RepoAudit: An Autonomous LLM-Agent for Repository-Level Code Auditing
+Revisiting Cooperative Off-Policy Multi-Agent Reinforcement Learning
+Risk-Sensitive Theory of Mind: Coordinating with Agents of Unknown Bias using Cumulative Prospect Theory
+Robust Multi-Agent Reinforcement Learning with Stochastic Adversary
+SafeArena: Evaluating the Safety of Autonomous Web Agents
+Scaling Laws for Pre-training Agents and World Models
+ShieldAgent: Shielding Agents via Verifiable Safety Policy Reasoning
+SyncMind: Measuring Agent Out-of-Sync Recovery in Collaborative Software Engineering
+The Berkeley Function Calling Leaderboard (BFCL): From Tool Use to Agentic Evaluation of Large Language Models
+The Limits of Predicting Agents from Behaviour
+Toward Robust Hyper-Detailed Image Captioning: A Multiagent Approach and Dual Evaluation Metrics for Factuality and Coverage
+Towards Efficient Online Tuning of VLM Agents via Counterfactual Soft Reinforcement Learning
+Training Software Engineering Agents and Verifiers with SWE-Gym
+Training a Generally Curious Agent
+UDora: A Unified Red Teaming Framework against LLM Agents by Dynamically Hijacking Their Own Reasoning
+UP-VLA:  A Unified Understanding and Prediction Model for Embodied Agent
+What Limits Virtual Agent Application? OmniBench: A Scalable Multi-Dimensional Benchmark for Essential Virtual Agent Capabilities
+Which Agent Causes Task Failures and When? On Automated Failure Attribution of LLM Multi-Agent Systems
+Windows Agent Arena: Evaluating Multi-Modal OS Agents at Scale
+Wolfpack Adversarial Attack for Robust Multi-Agent Reinforcement Learning
+World Model Implanting for Test-time Adaptation of Embodied Agents

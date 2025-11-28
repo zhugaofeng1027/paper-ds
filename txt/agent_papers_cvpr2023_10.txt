@@ -1,0 +1,10 @@
+MotionDiffuser: Controllable Multi-Agent Motion Prediction Using Diffusion
+IPCC-TP: Utilizing Incremental Pearson Correlation Coefficient for Joint Multi-Agent Trajectory Prediction
+Behavioral Analysis of Vision-and-Language Navigation Agents
+EqMotion: Equivariant Multi-Agent Motion Prediction With Invariant Interaction Reasoning
+Multi-Agent Automated Machine Learning
+ProphNet: Efficient Agent-Centric Motion Forecasting With Anchor-Informed Proposals
+StarCraftImage: A Dataset for Prototyping Spatial Reasoning Methods for Multi-Agent Environments
+FJMP: Factorized Joint Multi-Agent Motion Prediction Over Learned Directed Acyclic Interaction Graphs
+ViP3D: End-to-End Visual Trajectory Prediction via 3D Agent Queries
+D2Former: Jointly Learning Hierarchical Detectors and Contextual Descriptors via Agent-Based Transformers

@@ -1,0 +1,106 @@
+AGILE: A Novel Reinforcement Learning Framework of LLM Agents
+ALI-Agent: Assessing LLMs'  Alignment with Human Values via Agent-based Evaluation
+AMOR: A Recipe for Building Adaptable Modular Knowledge Agents Through Process Feedback
+AdaSociety: An Adaptive Environment with Social Structures for Multi-Agent Decision-Making
+Agent Planning with World Knowledge Model
+AgentBoard: An Analytical Evaluation Board of Multi-turn LLM Agents
+AgentDojo: A Dynamic Environment to Evaluate Prompt Injection Attacks and Defenses for LLM Agents
+AgentPoison: Red-teaming LLM Agents via Poisoning Memory or Knowledge Bases
+Aligning Audio-Visual Joint Representations with an Agentic Workflow
+Aligning Individual and Collective Objectives in Multi-Agent Cooperation
+Aligning LLM Agents by Learning Latent Preference from User Edits
+AutoGuide: Automated Generation and Selection of Context-Aware Guidelines for Large Language Model Agents
+AutoManual: Constructing Instruction Manuals by LLM Agents via Interactive Environmental Learning
+Automating Data Annotation under Strategic Human Agents: Risks and Potential Solutions
+Autonomous Agents for Collaborative Task under Information Asymmetry
+AvaTaR: Optimizing LLM Agents for Tool Usage via Contrastive Reasoning
+BehaviorGPT: Smart Agent Simulation for Autonomous Driving with Next-Patch Prediction
+BenchMARL: Benchmarking Multi-Agent Reinforcement Learning
+Boosting Sample Efficiency and Generalization in Multi-agent Reinforcement Learning via Equivariance
+Can Graph Learning Improve Planning in LLM-based Agents?
+Can Large Language Model Agents Simulate Human Trust Behavior?
+Can an AI Agent Safely Run a Government? Existence of Probably Approximately Aligned Policies
+Chain of Agents: Large Language Models Collaborating on Long-Context Tasks
+Coevolving with the Other You: Fine-Tuning LLM with Sequential Cooperative Multi-Agent Reinforcement Learning
+Contracting with a Learning Agent
+Cooperate or Collapse:  Emergence of Sustainable Cooperation in a Society of LLM Agents
+DigiRL: Training In-The-Wild Device-Control Agents with Autonomous Reinforcement Learning
+DiscoveryWorld: A Virtual Environment for Developing and Evaluating Automated Scientific Discovery Agents
+Diversity Is Not All You Need: Training A Robust Cooperative Agent Needs Specialist Partners
+Does Worst-Performing Agent Lead the Pack? Analyzing Agent Dynamics in Unified Distributed SGD
+Embodied Agent Interface: Benchmarking LLMs for Embodied Decision Making
+Enabling Adaptive Agent Training in Open-Ended Simulators by Targeting Diversity
+Episodic Future Thinking Mechanism for Multi-agent Reinforcement Learning
+Everyday Object Meets Vision-and-Language Navigation Agent via Backdoor
+FinCon: A Synthesized LLM Multi-Agent System with Conceptual Verbal Reinforcement for Enhanced Financial Decision Making
+Fine-Tuning Large Vision-Language Models as Decision-Making Agents via Reinforcement Learning
+GTA: A Benchmark for General Tool Agents
+GUIDE: Real-Time Human-Shaped Agents
+GenArtist: Multimodal LLM as an Agent for Unified Image Generation and Editing
+GenRL: Multimodal-foundation world models for generalization in embodied agents
+Grounded Answers for Multi-agent Decision-making Problem through Generative World Model
+Integrating Suboptimal Human Knowledge with Hierarchical Reinforcement Learning for Large-Scale Multiagent Systems
+Interpretable Concept Bottlenecks to Align Reinforcement Learning Agents
+Inverse Factorized Soft Q-Learning for Cooperative Multi-agent Imitation Learning
+JaxMARL: Multi-Agent RL Environments and Algorithms in JAX
+KALM: Knowledgeable Agents by Offline Reinforcement Learning from Large Language Model Rollouts
+Kaleidoscope: Learnable Masks for Heterogeneous Multi-agent Reinforcement Learning
+Language Grounded Multi-agent Reinforcement Learning with Human-interpretable Communication
+Large Language Models as Urban Residents: An LLM Agent Framework for Personal Mobility Generation
+Learning to Cooperate with Humans using Generative Agents
+Long-Horizon Planning for Multi-Agent Robots in Partially Observable Environments
+MACM: Utilizing a Multi-Agent System for Condition Mining in Solving Complex Mathematical Problems
+MADiff: Offline Multi-agent Learning with Diffusion Models
+MAGIS: LLM-Based Multi-Agent Framework for GitHub Issue Resolution
+MDAgents: An Adaptive Collaboration of LLMs for Medical Decision-Making
+MO-DDN: A Coarse-to-Fine Attribute-based Exploration Agent for Multi-Object Demand-driven Navigation
+Make-An-Agent: A Generalizable Policy Network Generator with Behavior-Prompted Diffusion
+Maximizing utility in multi-agent environments by anticipating the behavior of other learners
+Measuring Mutual Policy Divergence for Multi-Agent Sequential Exploration
+Mimicking To Dominate: Imitation Learning Strategies for Success in Multiagent Games
+Mobile-Agent-v2: Mobile Device Operation Assistant with Effective Navigation via Multi-Agent Collaboration
+Multi-Agent Coordination via Multi-Level Communication
+Multi-Agent Domain Calibration with a Handful of Offline Data
+Multi-Agent Imitation Learning: Value is Easy, Regret is Hard
+N-agent Ad Hoc Teamwork
+No-Regret Learning for Fair Multi-Agent Social Welfare Optimization
+Not so griddy: Internal representations of RNNs path integrating more than one agent
+OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments
+OmniJARVIS: Unified Vision-Language-Action Tokenization Enables Open-World Instruction Following Agents
+On the Effects of Data Scale on UI Control Agents
+Online Relational Inference for Evolving Multi-agent Interacting Systems
+Optimus-1: Hybrid Multimodal Memory Empowered Agents Excel in Long-Horizon Tasks
+Periodic agent-state based Q-learning for POMDPs
+Predicting Future Actions of Reinforcement Learning Agents
+Promoting Fairness Among Dynamic Agents in Online-Matching Markets under Known Stationary Arrival Distributions
+Randomized Exploration in Cooperative Multi-Agent Reinforcement Learning
+Randomized Truthful Auctions with Learning Agents
+Reasoning Multi-Agent Behavioral Topology for Interactive Autonomous Driving
+Reciprocal Reward Influence Encourages Cooperation From Self-Interested Agents
+Recursive Introspection: Teaching Language Model Agents How to Self-Improve
+RedCode: Risky Code Execution and Generation Benchmark for Code Agents
+Reflective Multi-Agent Collaboration based on Large Language Models
+Reinforcing LLM Agents via Policy Optimization with Action Decomposition
+RestoreAgent: Autonomous Image Restoration Agent via Multimodal Large Language Models
+Richelieu: Self-Evolving LLM-Based Agents for AI Diplomacy
+RoleAgent: Building, Interacting, and Benchmarking High-quality Role-Playing Agents from Scripts
+SMART: Scalable Multi-agent Real-time Motion Generation via Next-token Prediction
+SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering
+SWT-Bench: Testing and Validating Real-World Bug-Fixes with Code Agents
+Scalable Constrained Policy Optimization for Safe Multi-agent Reinforcement Learning
+Secret Collusion among AI Agents: Multi-Agent Deception via Steganography
+SleeperNets: Universal Backdoor Poisoning Attacks Against  Reinforcement Learning Agents
+Spider2-V: How Far Are Multimodal Agents From Automating Data Science and Engineering Workflows?
+Star-Agents: Automatic Data Optimization with LLM Agents for Instruction Tuning
+StreamBench: Towards Benchmarking Continuous Improvement of Language Agents
+Synatra: Turning Indirect Knowledge into Direct Demonstrations for Digital Agents at Scale
+The Dormant Neuron Phenomenon in Multi-Agent Reinforcement Learning Value Factorization
+TransAgent: Transfer Vision-Language Foundation Models with Heterogeneous Agent Collaboration
+UrbanKGent: A Unified Large Language Model Agent Framework for Urban Knowledge Graph Construction
+VLM Agents Generate Their Own Memories: Distilling Experience into Embodied Programs of Thought
+Value-Based Deep Multi-Agent Reinforcement Learning with Dynamic Sparse Training
+WFCRL: A Multi-Agent Reinforcement Learning Benchmark for Wind Farm Control
+Watch Out for Your Agents! Investigating Backdoor Threats to LLM-Based Agents
+WhodunitBench: Evaluating Large Multimodal Agents via Murder Mystery Games
+WorldCoder, a Model-Based LLM Agent: Building World Models by Writing Code and Interacting with the Environment
+ZSC-Eval: An Evaluation Toolkit and Benchmark for Multi-agent Zero-shot Coordination

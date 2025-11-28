@@ -1,0 +1,79 @@
+OPEx: A Component-Wise Analysis ofLLM-Centric Agents in Embodied Instruction Following
+VisualWebArena: Evaluating Multimodal Agents on Realistic Visual Web Tasks
+Tell Me More! Towards Implicit User Intention Understanding of Language Model Driven Agents
+IBSEN: Director-Actor Agent Collaboration for Controllable and Interactive Drama Script Generation
+InCharacter: Evaluating Personality Fidelity in Role-Playing Agents through Psychological Interviews
+Rethinking Task-Oriented Dialogue Systems: From Complex Modularity to Zero-Shot Autonomous Agent
+AutoAct: Automatic Agent Learning from Scratch forQAvia Self-Planning
+TimeArena: Shaping Efficient Multitasking Language Agents in a Time-Aware Simulation
+MapCoder: Multi-Agent Code Generation for Competitive Problem Solving
+QueryAgent: A Reliable and Efficient Reasoning Framework with Environmental Feedback based Self-Correction
+Agent-Pro: Learning to Evolve via Policy-Level Reflection and Optimization
+Experiential Co-Learning of Software-Developing Agents
+Speaker Verification in Agent-generated Conversations
+Benchmarking Data Science Agents
+Rethinking the Bounds ofLLMReasoning: Are Multi-Agent Discussions the Key?
+WebVoyager: Building an End-to-End Web Agent with Large Multimodal Models
+Trial and Error: Exploration-Based Trajectory Optimization ofLLMAgents
+Enhancing Dialogue State Tracking Models throughLLM-backed User-Agents Simulation
+On the Multi-turn Instruction Following for Conversational Web Agents
+Mobile-Bench: An Evaluation Benchmark forLLM-based Mobile Agents
+SeeClick: HarnessingGUIGrounding for Advanced VisualGUIAgents
+BadAgent: Inserting and Activating Backdoor Attacks inLLMAgents
+CharacterEval: AChinese Benchmark for Role-Playing Conversational Agent Evaluation
+Agent Lumos: Unified and Modular Training for Open-Source Language Agents
+SOTOPIA-π: Interactive Learning of Socially Intelligent Language Agents
+LLMArena: Assessing Capabilities of Large Language Models in Dynamic Multi-Agent Environments
+CodeAgent: Enhancing Code Generation with Tool-Integrated Agent Systems for Real-World Repo-level Coding Challenges
+Evaluating Very Long-Term Conversational Memory ofLLMAgents
+PsychoGAT: A Novel Psychological Measurement Paradigm through Interactive Fiction Games withLLMAgents
+Exploring Collaboration Mechanisms forLLMAgents: A Social Psychology View
+Talk With Human-like Agents: Empathetic Dialogue Through Perceptible Acoustic Reception and Reaction
+ChatDev: Communicative Agents for Software Development
+PsySafe: A Comprehensive Framework for Psychological-based Attack, Defense, and Evaluation of Multi-agent System Safety
+EconAgent: Large Language Model-Empowered Agents for Simulating Macroeconomic Activities
+AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents
+Soft Self-Consistency Improves Language Models Agents
+AGR: Reinforced Causal Agent-Guided Self-explaining Rationalization
+OpenWebAgent: An Open Toolkit to Enable Web Agents on Large Language Models
+LEGENT: Open Platform for Embodied Agents
+Text2DB: Integration-Aware Information Extraction with Large Language Model Agents
+MedAgents: Large Language Models as Collaborators for Zero-shot Medical Reasoning
+SocialBench: Sociality Evaluation of Role-Playing Conversational Agents
+AgentTuning: Enabling Generalized Agent Abilities forLLMs
+You Only Look at Screens: Multimodal Chain-of-Action Agents
+DARA: Decomposition-Alignment-Reasoning Autonomous Language Agent for Question Answering over Knowledge Graphs
+Can Large Language Models Mine Interpretable Financial Factors More Effectively? A Neural-Symbolic Factor Mining Agent Model
+Probing the Uniquely Identifiable Linguistic Patterns of ConversationalAIAgents
+Unveiling the Truth and Facilitating Change: Towards Agent-based Large-scale Social Movement Simulation
+XMC-Agent : Dynamic Navigation over Scalable Hierarchical Index for Incremental Extreme Multi-label Classification
+GeoAgent: To EmpowerLLMs using Geospatial Tools for Address Standardization
+Towards Uncertainty-Aware Language Agent
+ODA: Observation-Driven Agent for integratingLLMs and Knowledge Graphs
+A Two-Agent Game for Zero-shot Relation Triplet Extraction
+Deciphering Digital Detectives: UnderstandingLLMBehaviors and Capabilities in Multi-Agent Mystery Games
+Towards Objectively Benchmarking Social Intelligence of Language Agents at the Action Level
+CoCo-Agent: A Comprehensive CognitiveMLLMAgent for SmartphoneGUIAutomation
+Agent-FLAN: Designing Data and Methods of Effective Agent Tuning for Large Language Models
+BootstrappingLLM-based Task-Oriented Dialogue Agents via Self-Talk
+BoostingLLMAgents with Recursive Contemplation for Effective Deception Handling
+InjecAgent: Benchmarking Indirect Prompt Injections in Tool-Integrated Large Language Model Agents
+STYLE: Improving Domain Transferability of Asking Clarification Questions in Large Language Model Powered Conversational Agents
+MatPlotAgent: Method and Evaluation forLLM-Based Agentic Scientific Data Visualization
+CorNav: Autonomous Agent with Self-Corrected Planning for Zero-Shot Vision-and-Language Navigation
+360∘REA: Towards A Reusable Experience Accumulation with360∘Assessment for Multi-Agent System
+RaDA: Retrieval-augmented Web Agent Planning withLLMs
+Tailoring with Targeted Precision: Edit-Based Agents for Open-Domain Procedure Customization
+CToolEval: AChinese Benchmark forLLM-Powered Agent Evaluation in Real-WorldAPIInteractions
+STARLING: Self-supervised Training of Text-based Reinforcement Learning Agent with Large Language Models
+VillagerAgent: A Graph-Based Multi-Agent Framework for Coordinating Complex Task Dependencies inMinecraft
+KEEPCHATTING! An Attractive Dataset for Continuous Conversation Agents
+SyntheticArabic Medical Dialogues Using Advanced Multi-AgentLLMTechniques
+dzFinNlp atAraFinNLP: Improving Intent Detection in Financial Conversational Agents
+Advancing Healthcare Automation: Multi-Agent System for Medical Necessity Justification
+Conformity, Confabulation, and Impersonation: Persona Inconstancy in Multi-AgentLLMCollaboration
+ChatMol Copilot: An Agent for Molecular Modeling and Computation Powered byLLMs
+Reinforcement Learning-DrivenLLMAgent for Automated Attacks onLLMs
+Simulating Expert Discussions with Multi-agent for Enhanced Scientific Problem Solving
+TMAK-Plus atSIGHAN-2024 dimABSATask: Multi-Agent Collaboration for Transparent and Rational Sentiment Analysis
+Polarization of Autonomous GenerativeAIAgents Under Echo Chambers

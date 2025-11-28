@@ -1,0 +1,54 @@
+AVIS: Autonomous Visual Information Seeking with Large Language Model Agent
+AlberDICE: Addressing Out-Of-Distribution Joint Actions in Offline Multi-Agent RL via Alternating Stationary Distribution Correction Estimation
+Automatic Grouping for Efficient Cooperative Multi-Agent Reinforcement Learning
+BEDD: The MineRL BASALT Evaluation and Demonstrations Dataset for Training and Benchmarking Agents that Solve Fuzzy Tasks
+CAMEL: Communicative Agents for "Mind" Exploration of Large Language Model Society
+Calibrated Stackelberg Games: Learning Optimal Commitments Against Calibrated Agents
+Combinatorial Group Testing with Selfish Agents
+Conservative Offline Policy Adaptation in Multi-Agent Games
+Counterfactual Conservative Q Learning for Offline Multi-agent Reinforcement Learning
+Cross-Episodic Curriculum for Transformer Agents
+DIFFER:Decomposing Individual Reward for Fair Experience Replay in Multi-Agent Reinforcement Learning
+De novo Drug Design using Reinforcement Learning with Multiple GPT Agents
+Decentralized Randomly Distributed Multi-agent Multi-armed Bandit with Heterogeneous Rewards
+Decompose a Task into Generalizable Subtasks in Multi-Agent Reinforcement Learning
+Describe, Explain, Plan and Select: Interactive Planning with LLMs Enables Open-World Multi-Task Agents
+EDGI: Equivariant Diffusion for Planning with Embodied Agents
+Efficient Adversarial Attacks on Online Multi-agent Reinforcement Learning
+Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents
+Gigastep - One Billion Steps per Second Multi-agent Reinforcement Learning
+Grounded Decoding: Guiding Text Generation with Grounded Models for Embodied Agents
+Guide Your Agent with Adaptive Multimodal Rewards
+Hierarchical Multi-Agent Skill Discovery
+How2comm: Communication-Efficient and Collaboration-Pragmatic Multi-Agent Perception
+Information Design in Multi-Agent Reinforcement Learning
+Instructing Goal-Conditioned Reinforcement Learning Agents with Temporal Logic Objectives
+Large Language Models Are Semi-Parametric Reinforcement Learning Agents
+Learning Generalizable Agents via Saliency-guided Features Decorrelation
+Learning Multi-agent Behaviors from Distributed and Streaming Demonstrations
+Lending Interaction Wings to Recommender Systems with Conversational Agents
+Look Ma, No Hands! Agent-Environment Factorization of Egocentric Videos
+Mind2Web: Towards a Generalist Agent for the Web
+Mixed-Initiative Multiagent Apprenticeship Learning for Human Training of Robot Teams
+Multi-Agent First Order Constrained Optimization in Policy Space
+Multi-Agent Learning with Heterogeneous Linear Contextual Bandits
+Multi-Agent Meta-Reinforcement Learning: Sharper Convergence Rates with Task Similarity
+Mutual-Information Regularized Multi-Agent Policy Iteration
+Neural MMO 2.0: A Massively Multi-task Addition to Massively Multi-agent Learning
+OFCOURSE: A Multi-Agent Reinforcement Learning Environment for Order Fulfillment
+Offline Multi-Agent Reinforcement Learning with Implicit Global-to-Local Value Regularization
+Passive learning of active causal strategies in agents and language models
+Reflexion: language agents with verbal reinforcement learning
+RiskQ: Risk-sensitive Multi-Agent Reinforcement Learning Value Factorization
+Robust Multi-Agent Reinforcement Learning via Adversarial Regularization: Theoretical Foundation and Stable Algorithms
+SMACv2: An Improved Benchmark for Cooperative Multi-Agent Reinforcement Learning
+Sample-Efficient and Safe Deep Reinforcement Learning via Reset Deep Ensemble Agents
+Scalable Primal-Dual Actor-Critic Method for Safe Multi-Agent RL with General Utilities
+Selectively Sharing Experiences Improves Multi-Agent Reinforcement Learning
+SpokenWOZ: A Large-Scale Speech-Text Benchmark for Spoken Task-Oriented Dialogue Agents
+State2Explanation: Concept-Based Explanations to Benefit Agent Learning and User Understanding
+Statistical and Computational Trade-off in Multi-Agent Multi-Armed Bandits
+Strategic Distribution Shift of Interacting Agents via Coupled Gradient Flows
+SwiftSage: A Generative Agent with Fast and Slow Thinking for Complex Interactive Tasks
+The Waymo Open Sim Agents Challenge
+Two Heads are Better Than One: A Simple Exploration Framework for Efficient Multi-Agent Reinforcement Learning

@@ -1,0 +1,23 @@
+PathFinder: A Multi-Modal Multi-Agent System for Medical Diagnostic Decision-Making Applied to Histopathology
+EgoAgent: A Joint Predictive Agent Model in Egocentric Worlds
+Embodied Image Captioning: Self-supervised Learning Agents for Spatially Coherent Image Descriptions
+Less is More: Empowering GUI Agent with Context-Aware Simplification
+GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training
+Embodied VideoAgent: Persistent Memory from Egocentric Videos and Embodied Sensors Enables Dynamic Scene Understanding
+RoboFactory: Exploring Embodied Agent Collaboration with Compositional Constraints
+V2XPnP: Vehicle-to-Everything Spatio-Temporal Fusion for Multi-Agent Perception and Prediction
+SRefiner: Soft-Braid Attention for Multi-Agent Trajectory Refinement
+UIPro: Unleashing Superior Interaction Capability For GUI Agents
+Flow4Agent: Long-form Video Understanding via Motion Prior from Optical Flow
+Unified Multi-Agent Trajectory Modeling with Masked Trajectory Diffusion
+MotionAgent: Fine-grained Controllable Video Generation via Motion Field Agent
+LVAgent: Long Video Understanding by Multi-Round Dynamical Collaboration of MLLM Agents
+Visual Test-time Scaling for GUI Agent Grounding
+MMAT-1M: A Large Reasoning Dataset for Multimodal Agent Tuning
+T2I-Copilot: A Training-Free Multi-Agent Text-to-Image System for Enhanced Prompt Interpretation and Interactive Generation
+mmCooper: A Multi-agent Multi-stage Communication-efficient and Collaboration-robust Cooperative Perception Framework
+Preacher: Paper-to-Video Agentic System
+UINavBench: A Framework for Comprehensive Evaluation of Interactive Digital Agents
+Collaborative Instance Object Navigation: Leveraging Uncertainty-Awareness to Minimize Human-Agent Dialogues
+VCA: Video Curious Agent for Long Video Understanding
+TurboTrain: Towards Efficient and Balanced Multi-Task Learning for Multi-Agent Perception and Prediction

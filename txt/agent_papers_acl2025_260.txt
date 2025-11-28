@@ -1,0 +1,260 @@
+FACT-AUDIT: An Adaptive Multi-Agent Framework for Dynamic Fact-Checking Evaluation of Large Language Models
+EscapeBench: Towards Advancing Creative Intelligence of Language Model Agents
+MIND: A Multi-agent Framework for Zero-shot Harmful Meme Detection
+CompileAgent: Automated Real-World Repo-Level Compilation with Tool-IntegratedLLM-based Agent System
+AndroidLab: Training and Systematic Benchmarking of Android Autonomous Agents
+LegalAgentBench: EvaluatingLLMAgents in Legal Domain
+INVESTORBENCH: A Benchmark for Financial Decision-Making Tasks withLLM-based Agent
+MAIN-RAG: Multi-Agent Filtering Retrieval-Augmented Generation
+Context-Aware Sentiment Forecasting viaLLM-based Multi-Perspective Role-Playing Agents
+AndroidGen: Building an Android Language Agent under Data Scarcity
+RAG-Critic: Leveraging Automated Critic-Guided Agentic Workflow for Retrieval Augmented Generation
+UTBoost: Rigorous Evaluation of Coding Agents onSWE-Bench
+Leveraging Dual Process Theory in Language Agent Framework for Real-time Simultaneous Human-AICollaboration
+BELLE: A Bi-Level Multi-Agent Reasoning Framework for Multi-Hop Question Answering
+SurveyPilot: an Agentic Framework for Automated Human Opinion Collection from Social Media
+Auto-Arena: AutomatingLLMEvaluations with Agent Peer Battles and Committee Discussions
+Self-Taught Agentic Long Context Understanding
+OS-Genesis: AutomatingGUIAgent Trajectory Construction via Reverse Task Synthesis
+GUI-explorer: Autonomous Exploration and Mining of Transition-aware Knowledge forGUIAgent
+X-TURING: Towards an Enhanced and EfficientTuring Test for Long-Term Dialogue Agents
+Uncertainty Propagation onLLMAgent
+TheoremExplainAgent: Towards Video-based Multimodal Explanations forLLMTheorem Understanding
+M-MAD: Multidimensional Multi-Agent Debate for Advanced Machine Translation Evaluation
+G-Safeguard: A Topology-Guided Security Lens and Treatment onLLM-based Multi-agent Systems
+OSAgents: A Survey onMLLM-based Agents for Computer, Phone and Browser Use
+Evaluation Agent: Efficient and Promptable Evaluation Framework for Visual Generative Models
+AXIS: Efficient Human-Agent-Computer Interaction withAPI-FirstLLM-Based Agents
+CoMet: Metaphor-Driven Covert Communication for Multi-Agent Language Games
+AGrail: A Lifelong Agent Guardrail with Effective and Adaptive Safety Detection
+Attacking Vision-Language Computer Agents via Pop-ups
+In Prospect and Retrospect: Reflective Memory Management for Long-term Personalized Dialogue Agents
+SCALE: Towards Collaborative Content Analysis in Social Science with Large Language Model Agents and Human Intervention
+MultiAgentBench : Evaluating the Collaboration and Competition ofLLMagents
+LocAgent: Graph-GuidedLLMAgents for Code Localization
+KG-Agent: An Efficient Autonomous Agent Framework for Complex Reasoning over Knowledge Graph
+Agents Under Siege: Breaking Pragmatic Multi-AgentLLMSystems with Optimized Prompt Attacks
+Investigating and Extending Homans’ Social Exchange Theory with Large Language Model based Agents
+Embracing Imperfection: Simulating Students with Diverse Cognitive Levels UsingLLM-based Agents
+NexusSum: HierarchicalLLMAgents for Long-Form Narrative Summarization
+Frictional Agent Alignment Framework: Slow Down and Don’t Break Things
+GuideBench: Benchmarking Domain-Oriented Guideline Following forLLMAgents
+PaSa: AnLLMAgent for Comprehensive Academic Paper Search
+Enhancing Interpretable Image Classification ThroughLLMAgents and Conditional Concept Bottleneck Models
+RolePlot: A Systematic Framework for Evaluating and Enhancing the Plot-Progression Capabilities of Role-Playing Agents
+Can a Single Model Master Both Multi-turn Conversations and Tool Use?CoALM: A Unified Conversational Agentic Language Model
+SDPO: Segment-Level Direct Preference Optimization for Social Agents
+Agentic Knowledgeable Self-awareness
+A Unified Agentic Framework for Evaluating Conditional Image Generation
+Qwen2.5-xCoder: Multi-Agent Collaboration for Multilingual Code Instruction Tuning
+ReflecTool: Towards Reflection-Aware Tool-Augmented Clinical Agents
+MEDDxAgent: A Unified Modular Agent Framework for Explainable Automatic Differential Diagnosis
+Contextual Experience Replay for Self-Improvement of Language Agents
+Browsing Like Human: A Multimodal Web Agent with Experiential Fast-and-Slow Thinking
+MasRouter: Learning to RouteLLMs for Multi-Agent Systems
+BOOKWORLD: From Novels to Interactive Agent Societies for Story Creation
+Agentic Reward Modeling: Integrating Human Preferences with Verifiable Correctness Signals for Reliable Reward Systems
+My Words Imply Your Opinion: Reader Agent-Based Propagation Enhancement for Personalized Implicit Emotion Analysis
+ACT: Knowledgeable Agents to Design and Perform Complex Tasks
+TST: A Schema-Based Top-Down and Dynamic-Aware Agent of Text-to-Table Tasks
+LLMs Can Simulate Standardized Patients via Agent Coevolution
+Table-Critic: A Multi-Agent Framework for Collaborative Criticism and Refinement in Table Reasoning
+Agent-RewardBench: Towards a Unified Benchmark for Reward Modeling across Perception, Planning, and Safety in Real-World Multimodal Agents
+ChatSOP: AnSOP-GuidedMCTSPlanning Framework for ControllableLLMDialogue Agents
+SceneGenAgent: Precise Industrial Scene Generation with Coding Agent
+TunableLLM-based Proactive Recommendation Agent
+AgentRM: Enhancing Agent Generalization with Reward Modeling
+nvAgent: Automated Data Visualization from Natural Language via Collaborative Agent Workflow
+DARS: Dynamic Action Re-Sampling to Enhance Coding Agent Performance by Adaptive Tree Traversal
+AdaptAgent: Adapting Multimodal Web Agents with Few-Shot Learning from Human Demonstrations
+Substance over Style: Evaluating Proactive Conversational Coaching Agents
+Open-World Planning via Lifted Regression withLLM-Inferred Affordances for Embodied Agents
+CAMI: A Counselor Agent Supporting Motivational Interviewing through State Inference and Topic Exploration
+Beyond Frameworks: Unpacking Collaboration Strategies in Multi-Agent Systems
+GUICourse: From General Vision Language Model to VersatileGUIAgent
+Caution for the Environment: MultimodalLLMAgents are Susceptible to Environmental Distractions
+Advancing Collaborative Debates with Role Differentiation through Multi-Agent Reinforcement Learning
+Synthesizing Post-Training Data forLLMs through Multi-Agent Simulation
+A Dual-Mind Framework for Strategic and Expressive Negotiation Agent
+AgentDropout: Dynamic Agent Elimination for Token-Efficient and High-PerformanceLLM-Based Multi-Agent Collaboration
+Graph Counselor: Adaptive Graph Exploration via Multi-Agent Synergy to EnhanceLLMReasoning
+SOTOPIA-Ω: Dynamic Strategy Injection Learning and Social Instruction Following Evaluation for Social Agents
+MultipleLLMAgents Debate for Equitable Cultural Alignment
+Unveiling Privacy Risks inLLMAgent Memory
+LLMAgents Making Agent Tools
+OmniCharacter: Towards Immersive Role-Playing Agents with Seamless Speech-Language Personality Interaction
+Controllable and Reliable Knowledge-Intensive Task-Oriented Conversational Agents with Declarative Genie Worksheets
+OpenWebVoyager: Building Multimodal Web Agents via Iterative Real-World Exploration, Feedback and Optimization
+Gödel Agent: A Self-Referential Agent Framework for Recursively Self-Improvement
+AgentGym: Evaluating and Training Large Language Model-based Agents across Diverse Environments
+Many Heads Are Better Than One: Improved Scientific Idea Generation by ALLM-Based Multi-Agent System
+Agentic Reasoning: A Streamlined Framework for EnhancingLLMReasoning with Agentic Tools
+The Task Shield: Enforcing Task Alignment to Defend Against Indirect Prompt Injection inLLMAgents
+GETReason: Enhancing Image Context Extraction through Hierarchical Multi-Agent Reasoning
+METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling
+MAPoRL: Multi-Agent Post-Co-Training for Collaborative Large Language Models with Reinforcement Learning
+R2D2: Remembering, Replaying and Dynamic Decision Making with a Reflective Agentic Memory
+SpeechIQ: Speech-Agentic Intelligence Quotient Across Cognitive Levels in Voice Understanding by Large Language Models
+BenchmarkingLLMs andLLM-based Agents in Practical Vulnerability Detection for Code Repositories
+CityNavAgent: Aerial Vision-and-Language Navigation with Hierarchical Semantic Planning and Global Memory
+Persona Dynamics: Unveiling the Impact of Persona Traits on Agents in Text-Based Games
+Completing A Systematic Review in Hours instead of Months with InteractiveAIAgents
+Teaching Text Agents to Learn Sequential Decision Making from Failure
+A Multi-Agent Framework for Mitigating Dialect Biases in Privacy Policy Question-Answering Systems
+HiAgent: Hierarchical Working Memory Management for Solving Long-Horizon Agent Tasks with Large Language Model
+EducationQ: EvaluatingLLMs’ Teaching Capabilities Through Multi-Agent Dialogue Framework
+SocialCC: Interactive Evaluation for Cultural Competence in Language Agents
+SynWorld: Virtual Scenario Synthesis for Agentic Action Knowledge Refinement
+Unifying Language Agent Algorithms with Graph-based Orchestration Engine for Reproducible Agent Research
+AI4Reading:Chinese Audiobook Interpretation System Based on Multi-Agent Collaboration
+SpatialWebAgent: Leveraging Large Language Models for Automated Spatial Information Extraction and Map Grounding
+Bel Esprit: Multi-Agent Framework for BuildingAIModel Pipelines
+DocAgent: A Multi-Agent System for Automated Code Documentation Generation
+AI2Agent: An End-to-End Framework for DeployingAIProjects as Autonomous Agents
+Can Multi-turn Self-refined Single AgentLMs with Retrieval Solve Hard Coding Problems?
+Do Androids Question Electric Sheep? A Multi-Agent Cognitive Simulation of Philosophical Reflection on Hybrid Table Reasoning
+LibVulnWatch: A Deep Assessment Agent System and Leaderboard for Uncovering Hidden Vulnerabilities in Open-SourceAILibraries
+Can a Large Language Model Keep My Secrets? A Study onLLM-Controlled Agents
+MathAgent: Leveraging a Mixture-of-Math-Agent Framework for Real-World Multimodal Mathematical Error Detection
+ArchiDocGen: Multi-Agent Framework for Expository Document Generation in the Architectural Industry
+PlanGPT: Enhancing Urban Planning with a Tailored Agent Framework
+LEAP&LEAN: Look-ahead Planning and Agile Navigation forLLMAgents
+sudo rm -rf agentic_security
+OccuTriage: AnAIAgent Orchestration Framework for Occupational Health Triage Prediction
+A Parallelized Framework for Simulating Large-ScaleLLMAgents with Realistic Environments and Interactions
+A Practical Approach for Building Production-Grade Conversational Agents with Workflow Graphs
+Exploring Multi-Modal Data with Tool-AugmentedLLMAgents for Precise Causal Discovery
+TestAgent: An Adaptive and Intelligent Expert for Human Assessment
+Nuclear Deployed!: Analyzing Catastrophic Risks in Decision-making of AutonomousLLMAgents
+Ponder & Press: Advancing VisualGUIAgent towards General Computer Control
+LLM-Based Multi-Agent Systems are Scalable Graph Generative Models
+RTADev: Intention Aligned Multi-Agent Framework for Software Development
+Towards EfficientLLMGrounding for Embodied Multi-Agent Collaboration
+AMEX: Android Multi-annotation Expo Dataset for MobileGUIAgents
+NetSafe: Exploring the Topological Safety of Multi-agent System
+GOODLIAR: A Reinforcement Learning-Based Deceptive Agent for DisruptingLLMBeliefs on Foundational Principles
+SWE-Dev: Building Software Engineering Agents with Training and Inference Scaling
+Turning Conversations into Workflows: A Framework to Extract and Evaluate Dialog Workflows for ServiceAIAgents
+SMART: Self-Aware Agent for Tool Overuse Mitigation
+MegaAgent: A Large-Scale AutonomousLLM-based Multi-Agent System Without PredefinedSOPs
+An Empirical Study of Group Conformity in Multi-Agent Systems
+Beyond Words: Integrating Theory of Mind into Conversational Agents for Human-Like Belief, Desire, and Intention Alignment
+PersonaX: A Recommendation Agent-Oriented User Modeling Framework for Long Behavior Sequence
+AgentCourt: Simulating Court with Adversarial Evolvable Lawyer Agents
+Expectation Confirmation Preference Optimization for Multi-Turn Conversational Recommendation Agent
+Tell Me What You Don’t Know: Enhancing Refusal Capabilities of Role-Playing Agents via Representation Space Analysis and Editing
+MARK: Multi-agent Collaboration with Ranking Guidance for Text-attributed Graph Clustering
+BAR: A Backward Reasoning based Agent for ComplexMinecraft Tasks
+KAPA: A Deliberative Agent Framework with Tree-Structured Knowledge Base for Multi-Domain User Intent Understanding
+Explorer: Scaling Exploration-driven Web Trajectory Synthesis for Multimodal Web Agents
+RMoA: Optimizing Mixture-of-Agents through Diversity Maximization and Residual Compensation
+OS-Kairos: Adaptive Interaction forMLLM-PoweredGUIAgents
+Red-TeamingLLMMulti-Agent Systems via Communication Attacks
+LogicalDA: Enhancing Data Augmentation for Logical Reasoning via a Multi-Agent System
+Select, Read, and Write: A Multi-Agent Framework of Full-Text-based Related Work Generation
+FRAME: Feedback-Refined Agent Methodology for Enhancing Medical Research Insights
+Agents generalize to novel levels of abstraction by using adaptive linguistic strategies
+AgentStore: Scalable Integration of Heterogeneous Agents As Specialized Generalist Computer Assistant
+GA-S3: Comprehensive Social Network Simulation with Group Agents
+Debate, Reflect, and Distill: Multi-Agent Feedback with Tree-Structured Preference Optimization for Efficient Language Model Enhancement
+CortexDebate: Debating Sparsely and Equally for Multi-Agent Debate
+Debt Collection Negotiations with Large Language Models: An Evaluation System and Optimizing Decision Making with Multi-Agent
+Beyond Numeric Rewards: In-Context Dueling Bandits withLLMAgents
+A Survey ofLLM-based Agents in Medicine: How far are we from Baymax?
+Multi-Agent Collaboration via Cross-Team Orchestration
+Beyond Browsing:API-Based Web Agents
+You need toMIMICto getFAME: Solving Meeting Transcript Scarcity with Multi-Agent Conversations
+Optima: Optimizing Effectiveness and Efficiency forLLM-Based Multi-Agent System
+STeCa: Step-level Trajectory Calibration forLLMAgent Learning
+Voting or Consensus? Decision-Making in Multi-Agent Debate
+ChatMap: Mining Human Thought Processes for Customer Service Chatbots via Multi-Agent Collaboration
+GeAR: Graph-enhanced Agent for Retrieval-augmented Generation
+Training Turn-by-Turn Verifiers for Dialogue Tutoring Agents: The Curious Case ofLLMs as Your Coding Tutors
+TransBench: Breaking Barriers for Transferable Graphical User Interface Agents in Dynamic Digital Environments
+IDEA: Enhancing the Rule Learning Ability of Large Language Model Agent through Induction, Deduction, and Abduction
+MMInA: Benchmarking Multihop MultimodalInternet Agents
+FLAG-TRADER: FusionLLM-Agent with Gradient-based Reinforcement Learning for Financial Trading
+CROSSAGENTIE: Cross-Type and Cross-Task Multi-AgentLLMCollaboration for Zero-Shot Information Extraction
+Sleepless Nights, Sugary Days: Creating Synthetic Users with Health Conditions for Realistic Coaching Agent Interactions
+CoD, Towards an Interpretable Medical Agent using Chain of Diagnosis
+DoCIA: An Online Document-Level Context Incorporation Agent for Speech Translation
+PGPO: Enhancing Agent Reasoning via Pseudocode-style Planning Guided Preference Optimization
+EnhancingLLMAgent Safety via Causal Influence Prompting
+The Rise of Darkness: Safety-Utility Trade-Offs in Role-Playing Dialogue Agents
+Debate4MATH: Multi-Agent Debate for Fine-Grained Reasoning in Math
+LLMAgents for Coordinating Multi-User Information Gathering
+iAgent:LLMAgent as a Shield between User and Recommender Systems
+Towards a Design Guideline forRPAEvaluation: A Survey of Large Language Model-Based Role-Playing Agents
+MetaSynth: Meta-Prompting-Driven Agentic Scaffolds for Diverse Synthetic Data Generation
+TReMu: Towards Neuro-Symbolic Temporal Reasoning forLLM-Agents with Memory in Multi-Session Dialogues
+X-WebAgentBench: A Multilingual Interactive Web Benchmark for Evaluating Global Agentic System
+MemBench: Towards More Comprehensive Evaluation on the Memory ofLLM-based Agents
+Data Interpreter: AnLLMAgent for Data Science
+ProjectEval: A Benchmark for Programming Agents Automated Evaluation on Project-Level Code Generation
+Exploring the Role of Mental Health Conversational Agents in Training Medical Students and Professionals: A Systematic Literature Review
+CRAB: Cross-environment Agent Benchmark for Multimodal Language Model Agents
+CONSENSAGENT: Towards Efficient and Effective Consensus in Multi-AgentLLMInteractions Through Sycophancy Mitigation
+A Joint Optimization Framework for Enhancing Efficiency of Tool Utilization inLLMAgents
+GUIAgents: A Survey
+Towards Safety Reasoning inLLMs:AI-agentic Deliberation for Policy-embeddedCoTData Creation
+Metagent-P: A Neuro-Symbolic Planning Agent with Metacognition for Open Worlds
+Dynamic Personality inLLMAgents: A Framework for Evolutionary Modeling and Behavioral Analysis in the Prisoner’s Dilemma
+M2PA: A Multi-Memory Planning Agent for Open Worlds Inspired by Cognitive Theory
+AnnaAgent: Dynamic Evolution Agent System with Multi-Session Memory for Realistic Seeker Simulation
+The Behavior Gap: Evaluating Zero-shotLLMAgents in Complex Task-Oriented Dialogs
+REPRO-Bench: Can AgenticAISystems Assess the Reproducibility of Social Science Research?
+PodAgent: A Comprehensive Framework for Podcast Generation
+STORM-BORN: A Challenging Mathematical Derivations Dataset Curated via a Human-in-the-Loop Multi-Agent Framework
+MERIT: Multi-Agent Collaboration for Unsupervised Time Series Representation Learning
+MAGI: Multi-Agent Guided Interview for Psychiatric Assessment
+MAM: Modular Multi-Agent Framework for Multi-Modal Medical Diagnosis via Role-Specialized Collaboration
+ATLAS: Agent Tuning via Learning Critical Steps
+Sparse Rewards Can Self-Train Dialogue Agents
+CourtEval: A Courtroom-Based Multi-Agent Evaluation Framework
+Protecting Users From Themselves: Safeguarding Contextual Privacy in Interactions with Conversational Agents
+PLAY2PROMPT: Zero-shot Tool Instruction Optimization forLLMAgents via Tool Play
+7 Points toTsinghua but 10 Points to ? Assessing Large Language Models in Agentic Multilingual National Bias
+A Constrained Text Revision Agent via Iterative Planning and Searching
+EnhancingAI-Driven Farming Advisory inKenya with EfficientRAGAgents via Quantized Fine-Tuned Language Models
+Multi-AgentLLMDebate Unveils the Premise Left Unsaid
+CriticalBrew atCQs-Gen 2025: Collaborative Multi-Agent Generation and Evaluation of Critical Questions for Arguments
+Error Detection in Medical Note through Multi Agent Debate
+Neural atArchEHR-QA2025: Agentic Prompt Optimization for Evidence-Grounded Clinical Question Answering
+DMISLab atArchEHR-QA2025: Evidence-Grounded Answer Generation forEHR-basedQAvia a Multi-Agent Framework
+Multilabel Classification of Persuasion Techniques with self-improvingLLMagent:SlavicNLP2025 Shared Task
+EMULATE: A Multi-Agent Framework for Determining the Veracity of Atomic Claims by Emulating Human Actions
+Winning Big with Small Models: Knowledge Distillation vs. Self-Training for Reducing Hallucination inQAAgents
+Theorem-of-Thought: A Multi-Agent Framework for Abductive, Deductive, and Inductive Reasoning in Language Models
+X-Guard: Multilingual Guard Agent for Content Moderation
+1-2-3 Check: Enhancing Contextual Privacy inLLMvia Multi-Agent Reasoning
+CollEX– A Multimodal AgenticRAGSystem Enabling Interactive Exploration of Scientific Collections
+Proceedings of the 1st Workshop for Research on Agent Language Models (REALM 2025)
+CAMPHOR: Collaborative Agents for Multi-input Planning and High-Order Reasoning On Device
+A Multi-AIAgent System for Autonomous Optimization of AgenticAISolutions via Iterative Refinement andLLM-Driven Feedback Loops
+AID-Agent: AnLLM-Agent for Advanced Extraction and Integration of Documents
+Inherent and emergent liability issues inLLM-based agentic systems: a principal-agent perspective
+Positive Experience Reflection for Agents in Interactive Text Environments
+PAARS: Persona Aligned Agentic Retail Shoppers
+Safe in Isolation, Dangerous Together: Agent-Driven Multi-Turn Decomposition Jailbreaks onLLMs
+Conditional Multi-Stage Failure Recovery for Embodied Agents
+A Conversational Agent Framework for Multimodal Knowledge Retrieval: A Case Study inFHWAInfoHighway Web Portal Queries
+A Study on Leveraging Search and Self-Feedback for Agent Reasoning
+GitGoodBench: A Novel Benchmark For Evaluating Agentic Performance On Git
+TCQA2: A Tiered ConversationalQ&AAgent in Gaming
+Oversight Structures for AgenticAIin Public-Sector Organizations
+Are You Sure You’re Positive? Consolidating Chain-of-Thought Agents with Uncertainty Quantification for Aspect-Category Sentiment Analysis
+Measuring temporal effects of agent knowledge by date-controlled tool use
+StateAct: EnhancingLLMBase Agents via Self-prompting and State-tracking
+DIAMOND: AnLLM-Driven Agent for Context-Aware Baseball Highlight Summarization
+From Knowledge to Noise:CTIM-Rover and the Pitfalls of Episodic Memory in Software Engineering Agents
+OseiBrefo-Liang atSemEval-2025 Task 8 : A Multi-AgentLLMcode generation approach for answering Tabular Questions
+Heimerdinger atSemEval-2025 Task 11: A Multi-Agent Framework for Perceived Emotion Detection in Multilingual Text
+TableWise atSemEval-2025 Task 8:LLMAgents forTabQA
+TeamINSALyon2 atSemEval-2025 Task 10: A Zero-shot Agentic Approach to Text Classification
+Core Intelligence atSemEval-2025 Task 8: Multi-hopLLMAgent for Tabular Question Answering
+QleverAnswering-PUCRSatSemEval-2025 Task 8: ExploringLLMagents, code generation and correction for Table Question Answering
+Exploration LabIITKatSemEval-2025 Task 8: Multi-LLMAgentQAover Tabular Data
+Aestar atSemEval-2025 Task 8: AgenticLLMs for Question Answering over Tabular Data
+CLAIM: An Intent-Driven Multi-Agent Framework for Analyzing Manipulation in Courtroom Dialogues
+R3: “This is MySQL, Are You With Me?” A Consensus-Based Multi-Agent System for Text-to-SQLTasks
+LLMSR@XLLM25: Less is More: Enhancing Structured Multi-Agent Reasoning via Quality-Guided Distillation

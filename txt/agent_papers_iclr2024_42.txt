@@ -1,0 +1,42 @@
+A Black-box Approach for Non-stationary Multi-agent Reinforcement Learning
+A Real-World WebAgent with Planning, Long Context Understanding, and Program Synthesis
+AMAGO: Scalable In-Context Reinforcement Learning for Adaptive Agents
+Achieving Fairness in Multi-Agent MDP Using Reinforcement Learning
+AgentBench: Evaluating LLMs as Agents
+AgentVerse: Facilitating Multi-Agent Collaboration and Exploring Emergent Behaviors
+Attention-Guided Contrastive Role Representations for Multi-agent Reinforcement Learning
+Building Cooperative Embodied Agents Modularly with Large Language Models
+Byzantine Robust Cooperative Multi-Agent Reinforcement Learning as a Bayesian Game
+Causal Modelling Agents: Causal Graph Discovery through Synergising Metadata- and Data-driven Reasoning
+ChatEval: Towards Better LLM-based Evaluators through Multi-Agent Debate
+CivRealm: A Learning and Reasoning Odyssey in Civilization for Decision-Making Agents
+Efficient Episodic Memory Utilization of Cooperative Multi-Agent Reinforcement Learning
+Efficient Inverse Multiagent Learning
+Efficient Multi-agent Reinforcement Learning by Planning
+Enhancing Human Experience in Human-Agent Collaboration: A Human-Centered Modeling Approach Based on Positive Human Gain
+Identifying the Risks of LM Agents with an LM-Emulated Sandbox
+Learning Multi-Agent Communication from Graph Modeling Perspective
+Learning Multi-Agent Communication with Contrastive Learning
+Lemur: Harmonizing Natural Language and Code for Language Agents
+Let Models Speak Ciphers: Multiagent Debate through Embeddings
+LoTa-Bench: Benchmarking Language-oriented Task Planners for Embodied Agents
+Maximum Entropy Heterogeneous-Agent Reinforcement Learning
+MetaGPT: Meta Programming for A Multi-Agent Collaborative Framework
+Modeling Boundedly Rational Agents with Latent Inference Budgets
+Neural Neighborhood Search for Multi-agent Path Finding
+On the Hardness of Constrained Cooperative Multi-Agent Reinforcement Learning
+Online Continual Learning for Interactive Instruction Following Agents
+Online Information Acquisition: Hiring Multiple Agents
+Plug-and-Play Policy Planner for Large Language Model Powered Dialogue Agents
+PromptAgent: Strategic Planning with Language Models Enables Expert-level Prompt Optimization
+Retroformer: Retrospective Large Language Agents with Policy Gradient Optimization
+Robust agents learn causal world models
+SOTOPIA: Interactive Evaluation for Social Intelligence in Language Agents
+Sample-Efficient Multi-Agent RL: An Optimization Perspective
+Select to Perfect: Imitating desired behavior from large multi-agent data
+SmartPlay : A Benchmark for LLMs as Intelligent Agents
+SocioDojo: Building Lifelong Analytical Agents with Real-world Text and Time Series
+Spatially-Aware Transformers for Embodied Agents
+Steve-Eye: Equipping LLM-based Embodied Agents with Visual Perception in Open Worlds
+ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving
+WebArena: A Realistic Web Environment for Building Autonomous Agents

@@ -1,0 +1,59 @@
+${\rm E}(3)$-Equivariant Actor-Critic Methods for Cooperative Multi-Agent Reinforcement Learning
+A Human-Inspired Reading Agent with Gist Memory of Very Long Contexts
+A Multimodal Automated Interpretability Agent
+Advancing DRL Agents in Commercial Fighting Games: Training, Integration, and Agent-Human Alignment
+Agent Instructs Large Language Models to be General Zero-Shot Reasoners
+Agent Smith: A Single Image Can Jailbreak One Million Multimodal LLM Agents Exponentially Fast
+Agent-Specific Effects: A Causal Effect Propagation Analysis in Multi-Agent MDPs
+An Embodied Generalist Agent in 3D World
+AnyTool: Self-Reflective, Hierarchical Agents for Large-Scale API Calls
+ArCHer: Training Language Model Agents via Hierarchical Multi-Turn RL
+BAGEL: Bootstrapping Agents by Guiding Exploration with Language
+Breaking the Barrier: Enhanced Utility and Robustness in Smoothed DRL Agents
+CompeteAI: Understanding the Competition Dynamics of Large Language Model-based Agents
+Controlling Behavioral Diversity in Multi-Agent Reinforcement Learning
+DS-Agent: Automated Data Science by Empowering Large Language Models with Case-Based Reasoning
+Detecting Influence Structures in Multi-Agent Reinforcement Learning
+DoraemonGPT: Toward Understanding Dynamic Scenes with Large Language Models (Exemplified as A Video Agent)
+Dr. Strategy: Model-Based Generalist Agents with Strategic Dreaming
+Dynamic Evaluation of Large Language Models by Meta Probing Agents
+Embodied CoT Distillation From LLM To Off-the-shelf Agents
+Executable Code Actions Elicit Better LLM Agents
+Federated Combinatorial Multi-Agent Multi-Armed Bandits
+FightLadder: A Benchmark for Competitive Multi-Agent Reinforcement Learning
+GPT-4V(ision) is a Generalist Web Agent, if Grounded
+GPTSwarm: Language Agents as Optimizable Graphs
+HGAP: Boosting Permutation Invariant and Permutation Equivariant in Multi-Agent Reinforcement Learning via Graph Attention Network
+Improving Factuality and Reasoning in Language Models through Multiagent Debate
+In-Context Learning Agents Are Asymmetric Belief Updaters
+Incentivized Learning in Principal-Agent Bandit Games
+Individual Contributions as Intrinsic Exploration Scaffolds for Multi-agent Reinforcement Learning
+InfiAgent-DABench: Evaluating Agents on Data Analysis Tasks
+LAGMA: LAtent Goal-guided Multi-Agent Reinforcement Learning
+Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models
+Language Agents with Reinforcement Learning for Strategic Play in the Werewolf Game
+Locally Interdependent Multi-Agent MDP: Theoretical Framework for Decentralized Agents with Dynamic Dependencies
+MAGDi: Structured Distillation of Multi-Agent Interaction Graphs Improves Reasoning in Smaller Language Models
+MLAgentBench: Evaluating Language Agents on Machine Learning Experimentation
+Major-Minor Mean Field Multi-Agent Reinforcement Learning
+Model-Based RL for Mean-Field Games is not Statistically Harder than Single-Agent RL
+Multi-Agent Reinforcement Learning Meets Leaf Sequencing in Radiotherapy
+Multi-Agent Reinforcement Learning with Hierarchical Coordination for Emergency Responder Stationing
+Offline Training of Language Model Agents with Functions as Learnable Weights
+Optimistic Multi-Agent Policy Gradient
+Position: Foundation Agents as the Paradigm Shift for Decision Making
+Position: Towards Unified Alignment Between Agents, Humans, and Environment
+Q-Star Meets Scalable Posterior Sampling: Bridging Theory and Practice via HyperAgent
+R2E: Turning any Github Repository into a Programming Agent Environment
+Reason for Future, Act for Now: A Principled Architecture for Autonomous LLM Agents
+Reward Shaping for Reinforcement Learning with An Assistant Reward Agent
+Sample-Efficient Multiagent Reinforcement Learning with Reset Replay
+Sample-Efficient Robust Multi-Agent Reinforcement Learning in the Face of Environmental Uncertainty
+Scalable Safe Policy Improvement for Factored Multi-Agent MDPs
+SceneCraft: An LLM Agent for Synthesizing 3D Scenes as Blender Code
+Sequential Asynchronous Action Coordination in Multi-Agent Systems: A Stackelberg Decision Transformer Approach
+Should we be going MAD? A Look at Multi-Agent Debate Strategies for LLMs
+Socialized Learning: Making Each Other Better Through Multi-Agent Collaboration
+TravelPlanner: A Benchmark for Real-World Planning with Language Agents
+WorkArena: How Capable are Web Agents at Solving Common Knowledge Work Tasks?
+diff History for Neural Language Agents

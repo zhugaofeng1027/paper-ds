@@ -1,0 +1,14 @@
+PALto Lend a Helping Hand: Towards Building an Emotion Adaptive Polite and Empathetic Counseling Conversational Agent
+VLN-Trans: Translator for the Vision and Language Navigation Agent
+UKP-SQuAREv3: A Platform for Multi-AgentQAResearch
+AICoach Assist: An Automated Approach for Call Recommendation in Contact Centers for Agent Coaching
+What, When, and How to Ground: Designing User Persona-Aware Conversational Agents for Engaging Dialogue
+X-RiSAWOZ: High-Quality End-to-End Multilingual Dialogue Datasets and Few-shot Agents
+Guiding Dialogue Agents to Complex Semantic Targets by Dynamically Completing Knowledge Graph
+Multi-Agent Language Learning: Symbolic Mapping
+So many design choices: Improving and interpreting neural agent communication in signaling games
+Empowering Conversational Agents using Semantic In-Context Learning
+An Active Learning Pipeline forNLUError Detection in Conversational Agents
+Syntax and Semantics Meet in the “Middle”: Probing the Syntax-Semantics Interface ofLMs Through Agentivity
+Efficient and Interpretable Compressive Text Summarisation with Unsupervised Dual-Agent Reinforcement Learning
+PersonaPKT: Building Personalized Dialogue Agents via Parameter-efficient Knowledge Transfer

@@ -1,0 +1,31 @@
+Learning to Detect Objects from  Multi-Agent LiDAR Scans without Manual Labels
+Enhancing Video-LLM Reasoning via Agent-of-Thoughts Distillation
+TANGO: Training-free Embodied AI Agents for Open-world Tasks
+MCCD: Multi-Agent Collaboration-based Compositional Diffusion for Complex Text-to-Image Generation
+TraF-Align: Trajectory-aware Feature Alignment for Asynchronous Multi-agent Perception
+Visual Agentic AI for Spatial Reasoning with a Dynamic API
+ATA: Adaptive Transformation Agent for Text-Guided Subject-Position Variable Background Inpainting
+Collaborative Tree Search for Enhancing Embodied Multi-Agent Collaboration
+Do Visual Imaginations Improve Vision-and-Language Navigation Agents?
+RL-RC-DoT: A Block-level RL agent for Task-Aware Video Compression
+GUI-Xplore: Empowering Generalizable GUI Agents with One Exploration
+SegAgent: Exploring Pixel Understanding Capabilities in MLLMs by Imitating Human Annotator Trajectories
+MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent  SLAM
+Optimus-2: Multimodal Minecraft Agent with Goal-Observation-Action Conditioned Policy
+SketchAgent: Language-Driven Sequential Sketch Generation
+Dual-Agent Optimization framework for Cross-Domain Few-Shot Segmentation
+Font-Agent: Enhancing Font Understanding with Large Language Models
+SpiritSight Agent: Advanced GUI Agent with One Look
+Magma: A Foundation Model for Multimodal AI Agents
+ComfyBench: Benchmarking LLM-based Agents in ComfyUI for Autonomously Designing Collaborative AI Systems
+MAC-Ego3D: Multi-Agent Gaussian Consensus for Real-Time Collaborative Ego-Motion and Photorealistic 3D Reconstruction
+MNE-SLAM: Multi-Agent Neural SLAM for Mobile Robots
+Scalable Video-to-Dataset Generation for Cross-Platform Mobile Agents
+Unified Uncertainty-Aware Diffusion for Multi-Agent Trajectory Modeling
+Reasoning in Visual Navigation of End-to-end Trained Agents: A Dynamical Systems Approach
+NADER: Neural Architecture Design via Multi-Agent Collaboration
+From Multimodal LLMs to Generalist Embodied Agents: Methods and Lessons
+Feature4X: Bridging Any Monocular Video to 4D Agentic AI with Versatile Gaussian Feature Fields
+ShowUI: One Vision-Language-Action Model for GUI Visual Agent
+V-Stylist: Video Stylization via Collaboration and Reflection of MLLM Agents
+Sketchtopia: A Dataset and Foundational Agents for Benchmarking Asynchronous Multimodal Communication with Iconic Feedback
